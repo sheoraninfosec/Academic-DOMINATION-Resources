@@ -8,7 +8,6 @@
 
 > 📘 Made for the "average" student who refuses to stay average.
 
----
 
 ## 🛠 What's Inside
 
