@@ -1,10 +1,12 @@
-# 🧠 Academic Domination Resources 📚⚡  
-> Crush academics like a savage, not a student.
+<h1>🧠 Academic Domination Resources 📚⚡ </h1>
 
-Welcome to **Academic Domination Resources** — a curated vault of strategies, resources, templates, and tools to help you **conquer your academic journey** with focus, fire, and clarity.
+[![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Chai-orange.svg)](https://www.buymeacoffee.com/jigshex)
 
-This isn’t just about studying harder.  
-This is about **studying smarter, performing consistently, and staying ahead of 99% of your class** — without burnout or boring methods.
+#### A Personal Knowledge Arsenal for CS Students & Cybersecurity Learners
+
+**Academic DOMINATION Resources** is a curated vault of battle-tested notes, exam-ready materials, and roadmap-based learning strategies — built especially for Indian tech students grinding their way through B.Tech/M.Tech, certifications, and master's prep.
+
+> 📘 Made for the "average" student who refuses to stay average.
 
 ---
 
@@ -19,30 +21,6 @@ This is about **studying smarter, performing consistently, and staying ahead of 
 | 🎧 **Focus & Flow Tools** | Binaural beats, ambient study playlists, deep work apps. |
 | 📘 **Top Reads & Guides** | Handpicked books, PDFs, and digital notes to scale up learning. |
 | 📈 **Productivity Hacks** | Tools & systems for staying consistent without burning out. |
-
----
-
-## 🚀 Who's This For?
-
-- Students who want to stop winging it and start winning it.
-- Self-learners & online course warriors.
-- Aspirants prepping for competitive exams or professional certifications.
-- Anyone tired of traditional, outdated study advice.
-
----
-
-## 🔥 Get Started Like a Pro
-
-
-<h1>🎓 Academic DOMINATION Resources</h1>
-
-[![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Chai-orange.svg)](https://www.buymeacoffee.com/jigshex)
-
-#### A Personal Knowledge Arsenal for CS Students & Cybersecurity Learners
-
-**Academic DOMINATION Resources** is a curated vault of battle-tested notes, exam-ready materials, and roadmap-based learning strategies — built especially for Indian tech students grinding their way through B.Tech/M.Tech, certifications, and master's prep.
-
-> 📘 Made for the "average" student who refuses to stay average.
 
 ---
 
