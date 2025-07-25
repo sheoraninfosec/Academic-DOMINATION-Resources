@@ -1,4 +1,4 @@
-<h1>🧠 Academic Domination Resources 📚⚡ </h1>
+<h1>🎓 Academic Domination Resources 🧠 </h1>
 
 [![Support](https://img.shields.io/badge/Support-Buy%20Me%20a%20Chai-orange.svg)](https://www.buymeacoffee.com/jigshex)
 
