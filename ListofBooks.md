@@ -10,5 +10,9 @@
 - Format: PDF/EPUB/etc.
 - Red Teaming Field Manual
 
-...repeat as needed...
+## CEHv10 
+## CEHv12
+- Author(s): [If available]
+- Format: PDF/EPUB/etc.
+- Red Teaming Field Manual
 
