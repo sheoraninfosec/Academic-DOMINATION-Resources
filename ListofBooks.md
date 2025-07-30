@@ -1,14 +1,15 @@
 # List of Books
 
 ## BTFM 
-- Author(s): [If available]
-- Format: PDF/EPUB/etc.
-- Blue Teaming Field Manual
 
-## RTMP (./relative-path-or-direct-link)
-- Author(s): [If available]
+- Author(s): Alan White / Ben Clark
 - Format: PDF
+
+
+## RTMP 
 - Red Teaming Field Manual
+- - Author(s): Ben Clark
+- Format: PDF
 
 ## CEHv10
 - Format: PDF
