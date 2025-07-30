@@ -8,7 +8,7 @@
 ## RTMP (./relative-path-or-direct-link)
 - Author(s): [If available]
 - Format: PDF/EPUB/etc.
-- [Short Description or Subject, if available]
+- Red Teaming Field Manual
 
 ...repeat as needed...
 
