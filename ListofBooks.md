@@ -11,7 +11,6 @@
 - Format: PDF
 
 ### CEHv10
-- Format: PDF
 ### CEHv12
 - Format: PDF
 
