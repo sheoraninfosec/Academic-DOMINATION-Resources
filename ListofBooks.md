@@ -1,6 +1,6 @@
 # List of Books
 
-## BTFM (Academic-DOMINATION-Resources/BTFM Blue Team Field Manual.pdf)
+## BTFM 
 - Author(s): [If available]
 - Format: PDF/EPUB/etc.
 - Blue Teaming Field Manual
