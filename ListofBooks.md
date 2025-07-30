@@ -10,9 +10,9 @@
 - - Author(s): Ben Clark
 - Format: PDF
 
-# CEHv10
+### CEHv10
 - Format: PDF
-# CEHv12
+### CEHv12
 - Format: PDF
 
 ## The Simple CEH book
