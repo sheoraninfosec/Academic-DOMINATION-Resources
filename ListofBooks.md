@@ -7,12 +7,14 @@
 
 ## RTMP (./relative-path-or-direct-link)
 - Author(s): [If available]
-- Format: PDF/EPUB/etc.
+- Format: PDF
 - Red Teaming Field Manual
 
 ## CEHv10
-- Format: PDF/EPUB/etc.
+- Format: PDF
   
 ## CEHv12
-- Format: PDF/EPUB/etc.
+- Format: PDF
 
+## The Simple CEH book
+- Format: PDF
